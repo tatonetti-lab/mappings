@@ -1,0 +1,26 @@
+vocabulary_id	vocabulary_name	vocabulary_reference	vocabulary_version	vocabulary_concept_id
+Cohort Type	OMOP Cohort Type	OMOP generated		44819234
+Cost Type	OMOP Cost Type	OMOP generated		5029
+ATC	WHO Anatomic Therapeutic Chemical Classification	FDB UK distribution package	RxNorm Full 20180507	44819117
+UB04 Typ bill	UB04 Typ bill	https://ushik.ahrq.gov/ViewItemDetails?&system=apcd&itemKey=196987000		32044
+UB04 Point of Origin	UB04 Point of Origin	https://www.resdac.org/cms-data/variables/Claim-Source-Inpatient-Admission-Code		32045
+UB04 Pri Typ of Adm	UB04 Pri Typ of Adm	https://www.resdac.org/cms-data/variables/Claim-Inpatient-Admission-Type-Code		32046
+UB04 Pt dis status	UB04 Pt dis status	https://www.resdac.org/cms-data/variables/patient-discharge-status-code		32047
+Drug Type	OMOP Drug Exposure Type	OMOP generated		44819126
+Condition Type	OMOP Condition Occurrence Type	OMOP generated		44819127
+Procedure Type	OMOP Procedure Occurrence Type	OMOP generated		44819128
+Observation Type	OMOP Observation Type	OMOP generated		44819129
+None	OMOP Standardized Vocabularies	OMOP generated	v5.0 21-MAY-18	44819096
+Note Type	OMOP Note Type	OMOP generated		44819146
+Domain	OMOP Domain	OMOP generated		44819147
+Obs Period Type	OMOP Observation Period Type	OMOP generated		44819149
+Visit Type	OMOP Visit Type	OMOP generated		44819150
+Device Type	OMOP Device Type	OMOP generated		44819151
+Meas Type	OMOP Measurement Type	OMOP generated		44819152
+Relationship	OMOP Relationship	OMOP generated		44819235
+Vocabulary	OMOP Vocabulary	OMOP generated		44819232
+Concept Class	OMOP Concept Class	OMOP generated		44819233
+Visit	OMOP Visit	OMOP generated		44819119
+RxNorm	RxNorm (NLM)	http://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html	RxNorm Full 20180507	44819104
+Death Type	OMOP Death Type	OMOP generated		44819135
+Cost	OMOP Cost	OMOP generated		581457
