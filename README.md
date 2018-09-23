@@ -1,2 +1,2 @@
-# mappings
-In house mappings of drug and ADR severity expanding on OHDSI
+# Mappings
+In house mappings of drug and ADR severity expanding on OHDSI. 
